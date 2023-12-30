@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorFizzBuzz.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorFizzBuzz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorFizzBuzz.props",
+      "PackagePath": "build\\BlazorFizzBuzz.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorFizzBuzz.props",
+      "PackagePath": "buildMultiTargeting\\BlazorFizzBuzz.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorFizzBuzz.props",
+      "PackagePath": "buildTransitive\\BlazorFizzBuzz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
