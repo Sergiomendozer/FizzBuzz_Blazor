@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css",
+      "Id": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorFizzBuzz.bundle.scp.css"
     },
     {
-      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/app.css",
+      "Id": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/favicon.png",
+      "Id": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

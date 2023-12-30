@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/BlazorFizzBuzz.csproj",
+      "projectUniqueName": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz.csproj",
       "projectName": "BlazorFizzBuzz",
-      "projectPath": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/BlazorFizzBuzz.csproj",
+      "projectPath": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz.csproj",
       "packagesPath": "/Users/smendoza1/.nuget/packages/",
-      "outputPath": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/obj/",
+      "outputPath": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/smendoza1/.nuget/NuGet/NuGet.Config"

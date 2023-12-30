@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorFizzBuzz
 build_property.RootNamespace = BlazorFizzBuzz
-build_property.ProjectDir = /Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/
+build_property.ProjectDir = /Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz
+build_property.MSBuildProjectDirectory = /Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/App.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Pages/Counter.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Pages/Error.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Pages/Home.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Pages/Weather.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Routes.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/_Imports.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Layout/MainLayout.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-kzj649ohyt
 
-[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/BlazorFizzBuzz/Components/Layout/NavMenu.razor]
+[/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2cw6yqyupa

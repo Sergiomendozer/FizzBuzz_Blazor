@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "APAOvOkU8L1uD9DFBpWlSncuGXgVjjuUDDR3znLK0Vk=",
+  "Hash": "u1WVRw9b0c4A0qk/+R2fwo2Kyi0k0kZjBM5ooehglPo=",
   "Source": "BlazorFizzBuzz",
   "BasePath": "_content/BlazorFizzBuzz",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorFizzBuzz/wwwroot",
       "Source": "BlazorFizzBuzz",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/",
       "BasePath": "_content/BlazorFizzBuzz",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/bundle/BlazorFizzBuzz.styles.css",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/bundle/BlazorFizzBuzz.styles.css",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "BlazorFizzBuzz.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/bundle/BlazorFizzBuzz.styles.css"
+      "OriginalItemSpec": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/bundle/BlazorFizzBuzz.styles.css"
     },
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "BlazorFizzBuzz.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/smendoza1/Documents/BlazorFizzBuzz/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css"
+      "OriginalItemSpec": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/obj/Debug/net8.0/scopedcss/projectbundle/BlazorFizzBuzz.bundle.scp.css"
     },
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/app.css",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/app.css",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/favicon.png",
+      "Identity": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/favicon.png",
       "SourceId": "BlazorFizzBuzz",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/smendoza1/Documents/BlazorFizzBuzz/wwwroot/",
+      "ContentRoot": "/Users/smendoza1/Documents/GitHub/FizzBuzz_Blazor/wwwroot/",
       "BasePath": "_content/BlazorFizzBuzz",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
