@@ -1,6 +1,22 @@
 @page "/FizzBuzz"
 
 <h3>FizzBuzz</h3>
+    <p>
+    FizzBuzz is a simple programming application that counts from 1 to a specified range (typically 1 to 100) and replaces numbers with "Fizz" if they are divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both 3 and 5. For all other numbers, it simply displays the number itself. It's commonly used as a beginner's coding challenge to test a programmer's ability to apply basic logic and control flow principles in a simple context, making it a useful tool for teaching programming concepts and assessing coding skills.</p>
+<div class="row">
+    <div class = "col-3">Fizz Value:</div>
+    <div class = "col"><input type = "number" /></div>
+</div>
+<div class="row">
+    <div class = "col-3">Buzz Value:</div>
+    <div class = "col"><input type = "number" /></div>
+</div>
+<div class="row">
+    <div class = "col">
+        <button class ="btn btn-primary" @onclick="FizzBizzIt">FizzBuzz it</button>
+    </div>
+</div>
+
 @code{
-    
+
 }
