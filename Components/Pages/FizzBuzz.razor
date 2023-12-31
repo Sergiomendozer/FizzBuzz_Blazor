@@ -18,9 +18,42 @@
 </div>
 
 @code{
+    List<BuzzItem> buzzItems = new List<BuzzItem>();
     private int FizzValue = 3;
     private int BuzzValue = 5;
 
+    bool Fizz = false;
+    bool Buzz = false;
     void FizzBuzzIt()
-    {}
+    {
+        if(buzzItems.Count>0)
+        {
+            buzzItems.Clear();
+        }
+
+        for (var i = 1; i<=100; i++)
+        {
+            Fizz = (i % FizzValue == 0);
+            Buzz = (i % BuzzValue == 0);
+
+            if (Fizz && Buzz)
+            {
+                buzzItems.Add (new BuzzItem {Value = "FizzBuzz", ClassName = "fizzBuzz"});
+            }
+            else if (Fizz)
+            {
+                buzzItems.Add(new BuzzItem {Value = "Buzz", ClassName = "buzz"});
+            }
+            else
+            {
+                buzzItems.Add(new BuzzItem {Value = i.ToString(), ClassName = "noBuzz"});
+            }
+        }
+    }
+
+    class BuzzItem
+    {
+        public string Value {get;set;}
+        public string ClassName {get;set;}
+    }
 }
